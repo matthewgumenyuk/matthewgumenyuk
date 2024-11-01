@@ -1,0 +1,3 @@
+- Name: Matthew Gumenyuk
+- Intreasts: Artifical Intelligence, Data Science, and Computational Economics
+- LinkedIn: https://www.linkedin.com/in/matthewgumenyuk/
