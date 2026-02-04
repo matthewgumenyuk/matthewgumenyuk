@@ -1,5 +1,5 @@
 - Name: Matthew Gumenyuk
-- Intreasts: Artifical Intelligence, Data Science, and Computational Economics
-- Undergraduate Year: 3rd Year
+- Intreasts: Data Science and Financial Economics
+- Undergraduate Year: 4th Year
 - Majors: Mathematics, Economics, and Computer Science
 - LinkedIn: https://www.linkedin.com/in/matthewgumenyuk/
