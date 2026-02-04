@@ -1,4 +1,4 @@
-Stuff About Me:
+Some Stuff About Me:
 - Previously a Software Developer Microsoft Stack Intern at Midtronics
 - Currently an Officer at the ACM chapter at the University of Wisconsin-Whitewater
 - Research data science and financial economics
